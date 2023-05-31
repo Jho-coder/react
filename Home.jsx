@@ -1,3 +1,6 @@
+Código erróneo... rehacer
+
+
 import React, { useState, useEffect } from "react";
 import { getListas } from "../api/lapizza.api";
 import Lista from "../components/Lista";
